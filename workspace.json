@@ -2,6 +2,7 @@
   "version": 2,
   "projects": {
     "dummy": "libs/dummy",
+    "dummy-2": "libs/dummy-2",
     "test": "apps/test",
     "test-e2e": "apps/test-e2e"
   }
